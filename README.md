@@ -5,7 +5,7 @@ Merhaba Size Captcha Bot Altyapısını Veriyorum                               
 ## Kurulum
 
 **.env** Klasörüne tokenimizi giriyoruz                                                                                                                                            Discord Developer Portal'a girip botumuzun **İntentlerini** açıyoruz.
-Kurulum bu kadar. Mesajları kendinize göre editleyebilirsiniz.
+Kurulum bu kadar. Mesajları kendinize göre editleyebilirsiniz (**Not: Herşey oto ayarlanmıştır**).
 
 ## Bottan Bazı Görüntüler
 
