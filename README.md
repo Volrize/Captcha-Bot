@@ -1,6 +1,6 @@
 ## Captcha Bot
 
-Merhaba Size Captcha Bot Altyapısını Veriyorum                                                                                                                                    Çalmak ve izinsiz paylaşmak yasaktır!                                                                                                                                            Paylaşmak isteyen olursa Discord'a Gelebilir [TIKLA](https://discord.gg/TJWDKqurgK)
+Merhaba Size Captcha Bot Altyapısını Veriyorum                                                                                                                              Çalmak ve izinsiz paylaşmak yasaktır!                                                                                                                                    Paylaşmak isteyen olursa Discord'a Gelebilir [TIKLA](https://discord.gg/TJWDKqurgK)
 
 ## Kurulum
 
