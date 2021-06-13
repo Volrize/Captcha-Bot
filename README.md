@@ -11,5 +11,5 @@ Kurulum bu kadar. Mesajları kendinize göre editleyebilirsiniz.
 
 [Destek İçin Tıkla](https://discord.gg/TJWDKqurgK) | [Discord Developer Portal](https://discord.com/developers/applications)
 
-**İyi Günler İyi Kullanımlar 👋****
+**İyi Günler İyi Kullanımlar 👋**
 
